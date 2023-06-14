@@ -1,6 +1,6 @@
 # Linear-Regression-Models
 
-Welcome to the Linear Regression repository! This project focuses on implementing linear regression, a fundamental machine learning algorithm, to predict house prices. This Readme file provides an overview of the contents in this repository, including files related to gradient descent, multiple variable linear regression, vectorization, and an example script, HousePriceModel.py, demonstrating how to utilize linear regression to predict house prices.
+Welcome to the Linear Regression repository! This project focuses on implementing linear regression, a fundamental machine learning algorithm, to predict house prices. This Readme file provides an overview of the contents in this repository, including files related to gradient descent, multiple variable linear regression, vectorization, and an example script, HousePriceModel.py, demonstrating how to utilize linear regression to predict house prices. This is content that I used when I was doing the MSEIP AFRL Summer 2023 Internship.
 
 ## Table of Contents
 - Introduction to Linear Regression
